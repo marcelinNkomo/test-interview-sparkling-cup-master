@@ -1,6 +1,6 @@
 package com.sparklingcup;
 
-public class Item {
+public class Item extends ItemProcessor {
     public String name;
 
     public int sellIn;
